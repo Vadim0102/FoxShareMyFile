@@ -1,4 +1,5 @@
 # FoxShareMyFile
+[/ Описание на русском /](https://github.com/Vadim0102/FoxShareMyFile/blob/main/docs/README-RU.md)
 A utility for convenient sending and receiving files without any restrictions!
 You can easily share your files with anyone! Just right–click on the file, select the "Send" option - "FoxShareMyFile", share the link, and you're done!
 There are no restrictions and third-party services (except in some cases).
